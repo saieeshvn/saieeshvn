@@ -1,16 +1,17 @@
-## Hi there 👋
+# Saieesh Vijayendra Nayak
 
-<!--
-**saieeshvn/saieeshvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Researcher
 
-Here are some ideas to get you started:
+## Researcher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Position
+Project Associate at the [Centre for Nanoscience and Engineering](http://www.cense.iisc.ac.in/) at [Indian Institute of Science](https://www.iisc.ac.in)
+
+## Research Interests
+- Nanotechnology
+- Solar Cells
+- Biosensors
+
+## Contact
+You can reach me at [saieeshvnayak@gmail.com].
+
