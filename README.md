@@ -1,7 +1,5 @@
 # Saieesh Vijayendra Nayak
 
-Researcher
-
 ## Researcher
 
 ## Current Position
