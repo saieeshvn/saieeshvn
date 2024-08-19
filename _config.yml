@@ -1,1 +1,13 @@
 theme: jekyll-theme-cayman
+
+title: Saieesh V Nayak
+description: Chemical Engineer and Nanotechnologist
+
+# Navigation links
+header_pages:
+  - index.md
+  - about.md
+  - research.md
+  - experience.md
+  - skills.md
+  - contact.md
